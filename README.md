@@ -2,10 +2,13 @@
 # Hi, I'm Abhi Jha 👋<br><br> I’m a Computer Science Engineering student passionate about building AI-powered and cybersecurity-focused solutions that address real-world problems. <br>
 My work sits at the intersection of Artificial Intelligence, Machine Learning, and Cybersecurity, where I enjoy taking an idea from concept to a working prototype.
 <br><br>
-🚀 What I’ve Built <br><br>
+🚀 What I’ve Built <br>
 🔹 VigilVoice — An AI-powered voice deepfake detection system designed to identify synthetic and manipulated speech using audio analysis and ML-based techniques.<br><br>
 🔹 AETHER_SHIELD — An anti-deepfake KYC and biometric liveness verification system combining challenge-response verification, computer vision, CNN-based detection, ONNX Runtime, and MediaPipe.<br><br>
-🔹 Network Intrusion Detection System — A Python and Scapy-based security project for monitoring network traffic and detecting suspicious activity through a Flask dashboard. <br><br>🤝 Let's Connect<br><br>* 💼 LinkedIn: [Abhi Jha](https://www.linkedin.com/in/abhi-jha18)<br>* 💻 GitHub: [Abhi-Jha-18](https://github.com/Abhi-Jha-18)<br><br>---<br><br>⭐ *Thanks for visiting my profile!*<br>
+🔹 Network Intrusion Detection System — A Python and Scapy-based security project for monitoring network traffic and detecting suspicious activity through a Flask dashboard. <br><br>
+I’m currently focused on strengthening my skills in AI/ML, cybersecurity, backend development, and intelligent security systems, while continuously building projects and learning new technologies.
+🎯 Open to internships, collaborative projects, and opportunities where I can learn, contribute, and build impactful technology.<br><br>
+Build. Learn. Secure. Innovate. 🚀🤝 Let's Connect<br><br>* 💼 LinkedIn: [Abhi Jha](https://www.linkedin.com/in/abhi-jha18)<br>* 💻 GitHub: [Abhi-Jha-18](https://github.com/Abhi-Jha-18)<br><br>---<br><br>⭐ *Thanks for visiting my profile!*<br>
 
 
 ## 🌐 Socials:
